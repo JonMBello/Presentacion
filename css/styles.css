@@ -1,18 +1,18 @@
 @font-face {
     font-family: century;
-    src: url(/assets/century-gothic/GOTHIC.TTF);
+    src: url(../assets/century-gothic/GOTHIC.TTF);
 }
 @font-face {
     font-family: centuryBold;
-    src: url(/assets/century-gothic/GOTHICB.TTF);
+    src: url(../assets/century-gothic/GOTHICB.TTF);
 }
 @font-face {
     font-family: centuryBoldItalic;
-    src: url(/assets/century-gothic/GOTHICBI.TTF);
+    src: url(../assets/century-gothic/GOTHICBI.TTF);
 }
 @font-face {
     font-family: centuryItalic;
-    src: url(/assets/century-gothic/GOTHICI.TTF);
+    src: url(../assets/century-gothic/GOTHICI.TTF);
 }
 
 .container-fluid {
